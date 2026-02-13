@@ -1,1 +1,1 @@
-https://github.com/Alice888-prog/OnoTebeNado.project
+https://github.com/Alice888-prog/OnoTebeNado.project.git
